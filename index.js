@@ -103,9 +103,9 @@ class Vue {
 
 const vm = new Vue({
   data: {
-    name: '梁凤波'
+    name: 'TOM'
   }
 })
 
 // 触发依赖，通知更新
-vm._data.name = '林峰'
+vm._data.name = 'JERRY'
